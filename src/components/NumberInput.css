@@ -1,0 +1,16 @@
+.number-input{
+    background-color: black;
+    color: white;
+    max-width: 150px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px; 
+    margin-right: 10px;
+    font-size: 48px;
+    text-align: end;
+}
+
+#num-1{
+    margin-left: 50px;
+}

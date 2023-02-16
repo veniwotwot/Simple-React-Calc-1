@@ -1,0 +1,16 @@
+button{
+    background-color: green;
+    font-size: 48px;
+    color: rgb(255,255,255);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 10px;
+    height: 74px;
+    width: 74px;
+    margin-right: 40px;
+    border-style: inset;
+}
+
+button:hover{
+    background-color: rgb(1, 84, 1);
+}
